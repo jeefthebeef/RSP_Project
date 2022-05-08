@@ -4,3 +4,12 @@
 [submodule "open_manipulator_applications"]
 	path = open_manipulator_applications
 	url = https://github.com/ROBOTIS-GIT/open_manipulator_applications.git
+[submodule "dynamixel-workbench"]
+	path = dynamixel-workbench
+	url = https://github.com/ROBOTIS-GIT/dynamixel-workbench/
+[submodule "open_manipulator_friends"]
+	path = open_manipulator_friends
+	url = https://github.com/ROBOTIS-GIT/open_manipulator_friends
+[submodule "open_manipulator_perceptions"]
+	path = open_manipulator_perceptions
+	url = https://github.com/ROBOTIS-GIT/open_manipulator_perceptions
