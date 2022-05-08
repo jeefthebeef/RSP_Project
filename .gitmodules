@@ -1,0 +1,3 @@
+[submodule "rsp_pick_and_place"]
+	path = rsp_pick_and_place
+	url = https://github.com/mats-robotics/rsp_pick_and_place
