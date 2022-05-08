@@ -13,3 +13,27 @@
 [submodule "open_manipulator_perceptions"]
 	path = open_manipulator_perceptions
 	url = https://github.com/ROBOTIS-GIT/open_manipulator_perceptions
+[submodule "open_manipulator_msgs"]
+	path = open_manipulator_msgs
+	url = https://github.com/ROBOTIS-GIT/open_manipulator_msgs
+[submodule "DynamixelSDK"]
+	path = DynamixelSDK
+	url = https://github.com/ROBOTIS-GIT/DynamixelSDK/
+[submodule "dynamixel-workbench-msgs"]
+	path = dynamixel-workbench-msgs
+	url = https://github.com/ROBOTIS-GIT/dynamixel-workbench-msgs
+[submodule "open_manipulator"]
+	path = open_manipulator
+	url = https://github.com/ROBOTIS-GIT/open_manipulator
+[submodule "open_manipulator_dependencies"]
+	path = open_manipulator_dependencies
+	url = https://github.com/ROBOTIS-GIT/open_manipulator_dependencies
+[submodule "open_manipulator_simulations"]
+	path = open_manipulator_simulations
+	url = https://github.com/ROBOTIS-GIT/open_manipulator_simulations
+[submodule "robotis_manipulator"]
+	path = robotis_manipulator
+	url = https://github.com/ROBOTIS-GIT/robotis_manipulator
+[submodule "rplidar_ros"]
+	path = rplidar_ros
+	url = https://github.com/Slamtec/rplidar_ros
