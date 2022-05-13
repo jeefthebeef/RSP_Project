@@ -7,9 +7,6 @@
 [submodule "dynamixel-workbench"]
 	path = dynamixel-workbench
 	url = https://github.com/ROBOTIS-GIT/dynamixel-workbench/
-[submodule "open_manipulator_friends"]
-	path = open_manipulator_friends
-	url = https://github.com/ROBOTIS-GIT/open_manipulator_friends
 [submodule "open_manipulator_perceptions"]
 	path = open_manipulator_perceptions
 	url = https://github.com/ROBOTIS-GIT/open_manipulator_perceptions
@@ -34,9 +31,6 @@
 [submodule "robotis_manipulator"]
 	path = robotis_manipulator
 	url = https://github.com/ROBOTIS-GIT/robotis_manipulator
-[submodule "rplidar_ros"]
-	path = rplidar_ros
-	url = https://github.com/Slamtec/rplidar_ros
 [submodule "realsense"]
 	path = realsense
 	url = https://github.com/IntelRealSense/realsense-ros
